@@ -1,3 +1,6 @@
+#recebe a quantidade, em gramas, dos tipos A, B e C de pão.
+#sabendo o preço por kg, retorna o valor total pago pelo cliente.
+
 #given the kg price and the total of bread, returns the price payed
 def calc_cost(gr, kg_price):
 
