@@ -1,3 +1,5 @@
+#imprime "bom dia", "boa tarde" ou "boa noite", a depender da hora do dia.
+
 def main():
   
   try:
