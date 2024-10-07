@@ -1,4 +1,4 @@
-
+#dado um derto produto digitado pelo usuário, verifica se esse produto está ou não no estoque.
 
 
 
