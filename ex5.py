@@ -1,3 +1,6 @@
+#recebe como entrada a data do dia de hoje.
+#retorna os nomes de todos os produtos que já venceram até essa data.
+
 from datetime import date
 
 #recieves an argument (type str) and converts it to a date
