@@ -1,3 +1,5 @@
+#imprime uma mensagem de boas-vindas.
+
 def main():
   
   try:
