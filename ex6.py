@@ -1,5 +1,5 @@
 #recebe, como entrada, uma quantidade em gramas de algum produto.
-#retorna  quantos grupos de 1000g, 450g e 100g precisam ser usados para chegar na quantidade total do produto.
+#retorna  quantos grupos de 1000g, 450g e 100g (A, B ou C) precisam ser usados para chegar na quantidade total do produto.
 
 def main():
                 # A  B  C
